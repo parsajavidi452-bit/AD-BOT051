@@ -1,0 +1,11 @@
+{
+  "name": "my-vless",
+  "main": "worker.js",
+  "compatibility_date": "2024-09-23",
+  "kv_namespaces": [
+    {
+      "binding": "USERS",
+      "id": "placeholder-will-be-replaced-on-deploy"
+    }
+  ]
+}
